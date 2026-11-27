@@ -1,0 +1,254 @@
+Variable_g,FG_Generic,FG_UPF,nova_hi,nova_lo,nova_pri
+DFFQC1_white_bread_g_day,Refined grains,Refined grain products,4,3,4
+DFFQC10_french_toast_g_day,Refined grains,Refined grain products,4,3,4
+DFFQC100_preserved_g_day,Vegetables,0,4,3,3
+DFFQC101_dressings_cream_low_fat_g_day,Gravies and sauces,Gravies and sauces,4,4,4
+DFFQC102_dressings_cream_regular_g_day,Gravies and sauces,Gravies and sauces,4,4,4
+DFFQC104_soup_rasam_g_day,Soup,0,3,3,3
+DFFQC106_soup_cream_g_day,Soup,Soups,4,3,4
+DFFQC107_apple_g_day,Fruits,0,1,1,1
+DFFQC108_avocado_g_day,Fruits,0,1,1,1
+DFFQC109_banana_g_day,Fruits,0,1,1,1
+DFFQC11_pizza_g_day,Western fast food,Western fast food,4,3,4
+DFFQC110_blueberries_g_day,Fruits,0,1,1,1
+DFFQC111_dragonfruit_g_day,Fruits,0,1,1,1
+DFFQC112_durian_g_day,Fruits,0,1,1,1
+DFFQC113_grape_g_day,Fruits,0,1,1,1
+DFFQC114_guava_g_day,Fruits,0,1,1,1
+DFFQC115_kiwi_g_day,Fruits,0,1,1,1
+DFFQC116_mango_g_day,Fruits,0,1,1,1
+DFFQC117_melon_g_day,Fruits,0,1,1,1
+DFFQC118_orange_g_day,Fruits,0,1,1,1
+DFFQC119_papaya_g_day,Fruits,0,3,1,1
+DFFQC12_thosai_g_day,Ethnic breads,0,4,3,3
+DFFQC120_pear_g_day,Fruits,0,1,1,1
+DFFQC121_pineapple_g_day,Fruits,0,3,1,1
+DFFQC122_strawberries_g_day,Fruits,0,1,1,1
+DFFQC123_dried_fruit_g_day,Fruits,0,3,1,1
+DFFQC124_10_coffee_2in1_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC124_11_coffee_no_milk_g_day,Coffee or tea,0,3,1,1
+DFFQC124_2_coffee_condensed_milk_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC124_3_coffee_evaporated_milk_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC124_7_coffee_soya_milk_g_day,Coffee or tea,Coffee and tea with additives,4,3,4
+DFFQC124_8_coffee_creamer_no_sugar_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC124_9_coffee_3in1_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC125_10_tea_2in1_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC125_11_tea_no_milk_g_day,Coffee or tea,0,1,1,1
+DFFQC125_2_tea_condensed_milk_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC125_3_tea_evaporated_milk_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC125_7_tea_soya_milk_g_day,Coffee or tea,Coffee and tea with additives,4,3,4
+DFFQC125_8_tea_creamer_no_sugar_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC125_9_tea_3in1_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC126_10_malted_drink_2in1_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_11_malted_drink_no_milk_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_2_malted_drink_condensed_milk_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_3_malted_drink_evaporated_milk_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_4_malted_drink_whole_milk_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_5_malted_drink_lowfat_milk_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_6_malted_drink_skimmed_milk_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_7_malted_drink_soya_milk_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_8_malted_drink_creamer_no_sugar_g_day,Malted drink,Malted drink,4,4,4
+DFFQC126_9_malted_drink_3in1_g_day,Malted drink,Malted drink,4,4,4
+DFFQC128_not_fruit_juice_g_day,Sweet beverages,Sweet beverages,4,4,4
+DFFQC129_bottled_tea_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC13_roti_g_day,Ethnic breads,0,4,3,3
+DFFQC130_bottled_coffee_g_day,Coffee or tea,Coffee and tea with additives,4,4,4
+DFFQC131_other_sweet_drinks_g_day,Sweet beverages,Sweet beverages,4,4,4
+DFFQC132_sports_drinks_g_day,Sweet beverages,Sweet beverages,4,4,4
+DFFQC133_carb_soft_drinks_sugar_free_g_day,Sweet beverages,Sweet beverages,4,4,4
+DFFQC134_carb_soft_drinks_regular_g_day,Sweet beverages,Sweet beverages,4,4,4
+DFFQC135_soya_milk_low_sugar_g_day,Soy products,Soya milk and tofu,4,1,4
+DFFQC136_soya_milk_regular_g_day,Soy products,Soya milk and tofu,4,3,4
+DFFQC137_milkshake_g_day,Sweet beverages,Sweet beverages,4,4,4
+DFFQC138_yoghurt_drink_g_day,Sweet beverages,Sweet beverages,4,3,4
+DFFQC139_nutrition_drink_g_day,Powdered nutrition drink,Powdered nutrition drink,4,4,4
+DFFQC14_chapati_g_day,Ethnic breads,0,4,3,3
+DFFQC142_milk_non_fat_g_day,Dairy products,0,4,1,1
+DFFQC143_milk_low_fat_g_day,Dairy products,0,4,1,1
+DFFQC144_milk_whole_g_day,Dairy products,0,4,1,1
+DFFQC145_1_yoghurt_regular_fat_g_day,Dairy products,Yoghurt and cheese,4,1,4
+DFFQC146_1_cheese_regular_fat_g_day,Dairy products,Yoghurt and cheese,4,3,4
+DFFQC147_savoury_biscuits_g_day,Snacks and desserts,Snacks and desserts,4,4,4
+DFFQC148_sweet_biscuits_g_day,Snacks and desserts,Snacks and desserts,4,4,4
+DFFQC149_biscuits_with_filling_g_day,Snacks and desserts,Snacks and desserts,4,4,4
+DFFQC15_murtabak_g_day,Ethnic breads,0,3,3,3
+DFFQC150_pastry_g_day,Snacks and desserts,Snacks and desserts,4,3,4
+DFFQC152_2_desserts_kueh_no_coconut_g_day,Snacks and desserts,Snacks and desserts,4,3,4
+DFFQC156_ice_cream_g_day,Snacks and desserts,Snacks and desserts,4,4,4
+DFFQC157_cake_g_day,Snacks and desserts,Snacks and desserts,4,3,4
+DFFQC158_chocolate_g_day,Snacks and desserts,Snacks and desserts,4,4,4
+DFFQC159_seeds_g_day,Snacks and desserts,0,4,1,1
+DFFQC160_nuts_g_day,Snacks and desserts,0,4,1,1
+DFFQC162_dumpling_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC163_fried_chips_g_day,Snacks and desserts,Snacks and desserts,4,3,4
+DFFQC17_sweet_filled_buns_g_day,Ethnic breads,Filled buns,4,3,4
+DFFQC18_savoury_filled_buns_g_day,Ethnic breads,Filled buns,4,4,4
+DFFQC19_1_plain_rice_type_mixture_g_day,Whole grains,0,1,1,1
+DFFQC19_2_plain_rice_type_unpolished_g_day,Whole grains,0,1,1,1
+DFFQC19_3_plain_rice_type_white_g_day,Refined grains,0,1,1,1
+DFFQC2_wholemeal_bread_g_day,Whole grains,Whole grain products,4,3,4
+DFFQC20_1_flav_porr_type_mixture_g_day,Whole grains,0,4,3,3
+DFFQC20_2_flav_porr_type_unpolished_g_day,Refined grains,0,4,3,3
+DFFQC20_3_flav_porr_type_white_g_day,Refined grains,0,4,3,3
+DFFQC21_1_plain_porr_type_mixture_g_day,Whole grains,0,1,1,1
+DFFQC21_2_plain_porr_type_unpolished_g_day,Whole grains,0,1,1,1
+DFFQC21_3_plain_porr_type_white_g_day,Refined grains,0,1,1,1
+DFFQC24_flav_rice_dish_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC27_idli_g_day,Refined grains,0,4,3,3
+DFFQC28_rice_roll_g_day,Refined grains,0,3,3,3
+DFFQC29_gravy_coconut_g_day,Gravies and sauces,Gravies and sauces,4,3,4
+DFFQC3_dried_fruit_bread_g_day,Refined grains,Refined grain products,4,3,4
+DFFQC30_gravy_no_coconut_g_day,Gravies and sauces,Gravies and sauces,4,3,4
+DFFQC33_noodle_in_soup_g_day,Soup,0,4,3,3
+DFFQC36_4_pasta_sauce_tomato_g_day,Gravies and sauces,0,4,3,3
+DFFQC37_french_fries_g_day,Western fast food,Western fast food,4,3,4
+DFFQC38_oats_g_day,Whole grains,0,1,1,1
+DFFQC39_cereal_3in1_g_day,Refined grains,Refined grain products,4,4,4
+DFFQC4_margarine_g_day,Spreads,Bread spreads,4,4,4
+DFFQC40_1_cereal_flav_wg_g_day,Whole grains,Whole grain products,4,4,4
+DFFQC40_2_cereal_flav_not_wg_g_day,Refined grains,Refined grain products,4,4,4
+DFFQC40_3_cereal_mix_wg_g_day,Whole grains,Whole grain products,4,4,4
+DFFQC40_4_cereal_mix_not_wg_g_day,Refined grains,Refined grain products,4,4,4
+DFFQC40_5_cereal_plain_wg_g_day,Whole grains,Whole grain products,4,3,4
+DFFQC40_6_cereal_plain_not_wg_g_day,Refined grains,Refined grain products,4,4,4
+DFFQC42_poultry_processed_g_day,Poultry,Processed animal products,4,3,4
+DFFQC43_3_poultry_curry_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC43_4_poultry_curry_no_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC43_5_poultry_stir_fried_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC43_6_poultry_deep_fried_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC43_7_poultry_stewed_g_day,Gravies and sauces,0,4,3,3
+DFFQC43_8_poultry_roasted_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC44_raw_fish_g_day,Fish and seafood,0,1,1,1
+DFFQC45_ngiri_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC46_dried_fish_g_day,Fish and seafood,0,3,3,3
+DFFQC50_prawn_g_day,Fish and seafood,0,1,1,1
+DFFQC51_crab_g_day,Fish and seafood,0,1,1,1
+DFFQC52_squid_g_day,Fish and seafood,0,1,1,1
+DFFQC53_1_oysters_g_day,Fish and seafood,0,3,1,1
+DFFQC53_2_seafood_curry_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC53_3_seafood_curry_no_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC53_4_seafood_stir_fried_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC53_5_seafood_deep_fried_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC53_6_seafood_roasted_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC53_7_seafood_stewed_g_day,Gravies and sauces,0,4,3,3
+DFFQC54_organs_g_day,Red meat,0,1,1,1
+DFFQC57_burger_g_day,Western fast food,Western fast food,4,3,4
+DFFQC59_3_meat_curry_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC59_4_meat_curry_no_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC59_5_meat_stir_fried_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC59_6_meat_deep_fried_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC59_7_meat_stewed_g_day,Gravies and sauces,0,4,3,3
+DFFQC59_8_meat_roasted_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC6_kaya_g_day,Spreads,Bread spreads,4,4,4
+DFFQC60_egg_mix_pork_g_day,Egg and egg dishes,0,3,3,3
+DFFQC61_egg_mix_chicken_g_day,Egg and egg dishes,0,3,3,3
+DFFQC62_egg_mix_seafood_g_day,Egg and egg dishes,0,3,3,3
+DFFQC63_egg_mix_beancurd_g_day,Egg and egg dishes,0,3,3,3
+DFFQC64_egg_mix_vege_g_day,Egg and egg dishes,0,3,3,3
+DFFQC65_egg_scrambled_g_day,Egg and egg dishes,0,3,1,3
+DFFQC66_egg_steamed_g_day,Egg and egg dishes,0,1,1,1
+DFFQC67_broccoli_g_day,Vegetables,0,1,1,1
+DFFQC68_chye_sim_g_day,Vegetables,0,1,1,1
+DFFQC69_kailan_g_day,Vegetables,0,1,1,1
+DFFQC70_kang_kong_g_day,Vegetables,0,1,1,1
+DFFQC71_spinach_g_day,Vegetables,0,1,1,1
+DFFQC72_white_cabbage_g_day,Vegetables,0,1,1,1
+DFFQC73_beansprouts_g_day,Vegetables,0,1,1,1
+DFFQC74_cauliflower_g_day,Vegetables,0,1,1,1
+DFFQC75_eggplant_g_day,Vegetables,0,1,1,1
+DFFQC76_gourd_g_day,Vegetables,0,1,1,1
+DFFQC77_celery_g_day,Vegetables,0,1,1,1
+DFFQC78_okra_g_day,Vegetables,0,1,1,1
+DFFQC79_mushrooms_g_day,Vegetables,0,3,1,1
+DFFQC8_jam_g_day,Spreads,Bread spreads,4,2,4
+DFFQC80_carrot_g_day,Vegetables,0,1,1,1
+DFFQC81_capsicum_g_day,Vegetables,0,1,1,1
+DFFQC82_dhal_g_day,Legumes,0,1,1,1
+DFFQC83_peas_g_day,Legumes,0,3,1,1
+DFFQC84_long_beans_g_day,Legumes,0,1,1,1
+DFFQC86_lotus_root_g_day,Vegetables,0,1,1,1
+DFFQC87_pumpkin_g_day,Vegetables,0,1,1,1
+DFFQC89_corn_g_day,Vegetables,0,3,1,1
+DFFQC9_hazelnut_g_day,Spreads,Bread spreads,4,4,4
+DFFQC90_yam_g_day,Vegetables,0,1,1,1
+DFFQC91_begedil_g_day,Vegetables,0,3,3,3
+DFFQC92_1_potato_g_day,Vegetables,0,4,1,1
+DFFQC92_10_veg_dish_chicken_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC92_11_veg_dish_fish_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC92_2_veg_curry_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC92_3_veg_curry_no_coconut_g_day,Gravies and sauces,0,4,3,3
+DFFQC92_4_veg_stir_fried_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC92_5_veg_deep_fried_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC92_6_veg_stewed_g_day,Gravies and sauces,0,3,3,3
+DFFQC92_7_veg_roasted_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC92_9_veg_dish_pork_g_day,Mixed dishes or ingredients,0,3,3,3
+DFFQC95_lettuce_g_day,Vegetables,0,1,1,1
+DFFQC96_coleslaw_g_day,Vegetables,Vegetable snacks,4,3,4
+DFFQC97_raita_g_day,Vegetables,0,3,3,3
+DFFQC98_cucumber_g_day,Vegetables,0,1,1,1
+DFFQC99_raw_tomato_g_day,Vegetables,0,1,1,1
+DFFQC103_dressings_oil_g_day,Gravies and sauces,0,3,2,2
+DFFQC105_soup_other_clear_g_day,Soup,Soups,4,3,4
+DFFQC124_4_coffee_whole_milk_g_day,Coffee or tea,0,4,1,1
+DFFQC124_5_coffee_lowfat_milk_g_day,Coffee or tea,0,4,1,1
+DFFQC124_6_coffee_skimmed_milk_g_day,Coffee or tea,0,4,1,1
+DFFQC125_4_tea_whole_milk_g_day,Coffee or tea,0,4,1,1
+DFFQC125_5_tea_lowfat_milk_g_day,Coffee or tea,0,4,1,1
+DFFQC125_6_tea_skimmed_milk_g_day,Coffee or tea,0,4,1,1
+DFFQC127_fruit_juice_g_day,Fruit juice,Fruit juice,4,1,4
+DFFQC145_2_yoghurt_reduced_fat_g_day,Dairy products,Yoghurt and cheese,4,1,4
+DFFQC146_2_cheese_reduced_fat_g_day,Dairy products,Yoghurt and cheese,4,3,4
+DFFQC151_sweet_snack_deepfried_g_day,Snacks and desserts,0,4,3,3
+DFFQC152_1_desserts_kueh_coconut_g_day,Snacks and desserts,0,4,3,3
+DFFQC153_1_desserts_in_soup_coconut_g_day,Snacks and desserts,0,4,3,3
+DFFQC153_2_desserts_in_soup_no_coconut_g_day,Snacks and desserts,0,4,3,3
+DFFQC154_beancurd_dessert_g_day,Snacks and desserts,0,4,3,3
+DFFQC155_pancake_g_day,Snacks and desserts,0,4,3,3
+DFFQC16_puri_g_day,Ethnic breads,0,3,3,3
+DFFQC161_puffs_and_pies_g_day,Snacks and desserts,0,4,3,3
+DFFQC23_flav_rice_g_day,Refined grains,0,4,3,3
+DFFQC25_glut_rice_g_day,Refined grains,Refined grain products,4,3,4
+DFFQC26_lontong_g_day,Refined grains,0,4,1,3
+DFFQC31_fried_noodle_g_day,Gravies and sauces,Gravies and sauces,4,3,4
+DFFQC32_noodle_in_gravy_g_day,Gravies and sauces,Gravies and sauces,4,3,4
+DFFQC34_1_dry_noodle_g_day,Gravies and sauces,Gravies and sauces,4,3,4
+DFFQC36_2_pasta_type_wholemeal_g_day,Whole grains,0,1,1,1
+DFFQC36_3_pasta_type_not_wholemeal_g_day,Refined grains,0,1,1,1
+DFFQC41_poultry_ham_g_day,Poultry,Processed animal products,4,3,4
+DFFQC43_9_poultry_boiled_g_day,Soup,0,4,3,3
+DFFQC47_canned_fish_g_day,Fish and seafood,Processed animal products,4,3,4
+DFFQC53_8_seafood_boiled_g_day,Soup,0,4,3,3
+DFFQC55_cured_pork_g_day,Red meat,Processed animal products,4,4,4
+DFFQC59_9_meat_boiled_g_day,Soup,0,4,3,3
+DFFQC7_peanut_butter_g_day,Spreads,0,4,2,3
+DFFQC85_other_beans_g_day,Legumes,Processed beans,4,1,4
+DFFQC88_tofu_g_day,Soy products,Soya milk and tofu,4,3,4
+DFFQC92_8_veg_boiled_g_day,Soup,0,3,3,3
+DFFQC93_fried_onion_g_day,Vegetables,Vegetable snacks,4,3,4
+DFFQC94_seaweed_g_day,Vegetables,Vegetable snacks,4,1,4
+DFFQC124_1_coffee_sugar_g_day,Sugar added to drinks,0,2,2,2
+DFFQC125_1_tea_sugar_g_day,Sugar added to drinks,0,2,2,2
+DFFQC126_1_malted_drink_sugar_g_day,Sugar added to drinks,0,2,2,2
+DFFQC22_1_fried_rice_with_veg_g_day,Vegetables,0,4,3,3
+DFFQC22_2_fried_rice_type_mixture_g_day,Whole grains,0,3,3,3
+DFFQC22_3_fried_rice_type_unpolished_g_day,Whole grains,0,3,3,3
+DFFQC22_4_fried_rice_type_white_g_day,Refined grains,0,4,3,3
+DFFQC22_5_fried_rice_without_veg_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC34_2_noodle_type_white_rice_g_day,Refined grains,0,4,1,3
+DFFQC34_3_noodle_type_brown_rice_g_day,Whole grains,0,3,1,3
+DFFQC34_4_noodle_type_wheat_g_day,Refined grains,Refined grain products,4,1,4
+DFFQC34_5_noodle_type_instant_g_day,Refined grains,Refined grain products,4,4,4
+DFFQC36_1_pasta_with_meat_g_day,Mixed dishes or ingredients,0,4,3,3
+DFFQC36_5_pasta_sauce_creamy_g_day,Gravies and sauces,Gravies and sauces,4,3,4
+DFFQC36_6_pasta_without_sauce_g_day,Refined grains,0,1,1,1
+DFFQC43_1_poultry_skin_removed_g_day,Poultry,0,1,1,1
+DFFQC43_2_poultry_skin_g_day,Poultry,0,1,1,1
+DFFQC48_white_fish_g_day,Fish and seafood,0,4,1,1
+DFFQC49_oily_fish_g_day,Fish and seafood,0,1,1,1
+DFFQC5_butter_g_day,Spreads,0,2,2,2
+DFFQC56_1_pork_fresh_fat_g_day,Red meat,0,1,1,1
+DFFQC56_2_pork_fresh_lean_g_day,Red meat,0,1,1,1
+DFFQC58_1_beef_fresh_fat_g_day,Red meat,0,1,1,1
+DFFQC58_2_beef_fresh_lean_g_day,Red meat,0,1,1,1
+DFFQC59_1_mutton_fat_g_day,Red meat,0,1,1,1
+DFFQC59_2_mutton_lean_g_day,Red meat,0,1,1,1
